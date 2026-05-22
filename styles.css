@@ -169,4 +169,5 @@ section {
 /* ---------------- cv ---------------- */
 .cv-heading, .cv-professional h1{
   font-style: italics;
+  margin-left: 1.5vw;
 }
